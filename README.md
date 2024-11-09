@@ -58,7 +58,7 @@ The integration is currently set up but untested due to the environment limitati
 Testing on physical devices is highly recommended to confirm functionality.
 Cross-Platform Testing Constraints:
 
-Without Android Studio or Xcode running correctly, testing options are limited.
+Without Android Studio or Xcode functioning properly as intended, testing options are limited.
 Web functionality is partial due to SQLite limitations in the Expo web preview.
 
 **Note:**
