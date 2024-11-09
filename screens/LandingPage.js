@@ -86,7 +86,7 @@ const CategoryCard = ({ category }) => (
 
 const styles = StyleSheet.create({
   container: { flex: 1, padding: 20, backgroundColor: '#fff' },
-  card: { padding: 20, marginBottom: 10, backgroundColor: '#f0f0f0', borderRadius: 5 },
+  card: { padding: 20, marginBottom: 10, backgroundColor: 'cyan', borderRadius: 55 },
   categoryName: { fontSize: 18 },
   detailsContainer: { alignItems: 'center', padding: 20 },
   detailsText: { fontSize: 22, fontWeight: 'bold' },
